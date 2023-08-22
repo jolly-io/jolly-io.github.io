@@ -16,7 +16,7 @@
 ##  Research Projects
 ![](assets/python_logo.jpeg)
 
-**Python projects**                                                                                                                                  
+**Python Projects**                                                                                                                                  
 - Developed a logistic regression-based model that predicted customer churn for a telecommunications client, resulting in a 30% reduction in churn, synthesizing technical and managerial insights for decision makers.
 - Implemented a regression discontinuity design to estimate the causal effect of positive Yelp.com ratings on restaurant reservation availability in San Francisco.
 - Implemented EDA on 200K+ US domestic airline records to determine and isolate variables causing flight delays and predict airports reliability. 
@@ -32,11 +32,11 @@
 **Strategy Lead @ Mastercard Foundation Scholars Program Initiative, UC Berkeley (_May 2019 - Sept. 2021_)**
 
 - Raised  $2,500 in opportunity funds to sponsor college prep and application costs for over a dozen High School graduates; enabling successful participation in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2019.
-_ Funded coaching for six High School graduates culminating in eventual acquisition of full tuition, room and board scholarships to Colleges in the United States and Africa in excess of $1 million in awards in 2020. 
+- Funded coaching for six High School graduates culminating in eventual acquisition of full tuition, room and board scholarships to Colleges in the United States and Africa in excess of $1 million in awards in 2020. 
 - Raised $3,000 in opportunity funds to sponsor college prep and application costs for about over 2 dozen undergraduate and graduate candidates in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2021. 
 
 ## Awards
-- The prestigious Mastercard Foundation Scholarship to UC Berkeley
+- The Prestigious Mastercard Foundation Scholarship to UC Berkeley
 
 
 
