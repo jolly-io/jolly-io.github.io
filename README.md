@@ -1,21 +1,42 @@
 # Data Scientist
 
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+#### Technical Skills: Python, R, SQL, AWS, GCP(BigQuery), Econometrics, Excel Optimization
+
+## Education
+- M.S., Business Analytics | California State Polytechnic University, Pomona, CA (_August 2023_)
+- B.A., Political Economics | University of California, Berkeley (_December 2020_)
+
+## Industry
+**Consulting Analyst @ Accenture ~ Applied Intelligence  (_Sept. 2021 - June 2022_)**
+                                                                         
+- Accelerated a $15 million cloud supply chain transformation project for a global top 2 cloud provider by 15% through implementation of effective metrics and KPIs benchmarking.
+- Enhanced accuracy and completion rates by 25% for a global e-commerce client's urgent data migration to a cloud-based infrastructure through quality control measures, earning managerial recognition.
+- Secured a $5 million contract by crafting a customized proposal for an Electric Vehicle manufacturer client's charging location optimization project, resulting in both client and managerial recognition.
+
+##  Research Projects
+**Python projects**                                                                                                                                  
+- Developed a logistic regression-based model that predicted customer churn for a telecommunications client, resulting in a 30% reduction in churn, synthesizing technical and managerial insights for decision makers.
+- Implemented a regression discontinuity design to estimate the causal effect of positive Yelp.com ratings on restaurant reservation availability in San Francisco.
+- Implemented EDA on 200K+ US domestic airline records to determine and isolate variables causing flight delays and predict airports reliability. 
+
+**R Projects**	     
+- Implemented a linear regression model design to estimate the causal effect of term limits (elimination of re-election incentives) on a development outcome (corruption) on data from Brazil.  
+- Implemented a differences-in-differences impact evaluation of a government road intervention program on total population growth on panel data from rural India.
+ -Built a multiple linear regression model to predict price and price variation on car sharing platform, Turo, leveraging feature engineering to enhance the model’s predictive power and improve pricing strategy.
+
+## Leadership 
+**Strategy Lead @ Mastercard Foundation Scholars Program Initiative, UC Berkeley (_May 2019 - Sept. 2021_)**
+
+- Raised  $2,500 in opportunity funds to sponsor college prep and application costs for over a dozen High School graduates; enabling successful participation in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2019.
+_ Funded coaching for six High School graduates culminating in eventual acquisition of full tuition, room and board scholarships to Colleges in the United States and Africa in excess of $1 million in awards in 2020. 
+- Raised $3,000 in opportunity funds to sponsor college prep and application costs for about over 2 dozen undergraduate and graduate candidates in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2021. 
+
+## Awards
+- The prestigious Mastercard Foundation Scholarship to UC Berkeley
 
 
-# Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
-
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
-
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 
-# Projects
+
+
+
