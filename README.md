@@ -14,10 +14,14 @@
 - Secured a $5 million contract by crafting a customized proposal for an Electric Vehicle manufacturer client's charging location optimization project, resulting in both client and managerial recognition.
 
 ##  Research Projects
+![](assets/python_logo.jpeg)
+
 **Python projects**                                                                                                                                  
 - Developed a logistic regression-based model that predicted customer churn for a telecommunications client, resulting in a 30% reduction in churn, synthesizing technical and managerial insights for decision makers.
 - Implemented a regression discontinuity design to estimate the causal effect of positive Yelp.com ratings on restaurant reservation availability in San Francisco.
 - Implemented EDA on 200K+ US domestic airline records to determine and isolate variables causing flight delays and predict airports reliability. 
+
+![](assets/R_logo.png)
 
 **R Projects**	     
 - Implemented a linear regression model design to estimate the causal effect of term limits (elimination of re-election incentives) on a development outcome (corruption) on data from Brazil.  
