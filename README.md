@@ -4,7 +4,7 @@
 
 ## Education
 - M.S., Business Analytics | California State Polytechnic University, Pomona, CA (_August 2023_)
-- B.A., Political Economics | University of California, Berkeley (_December 2020_)
+- B.A., Political Economics |University of California, Berkeley, CA (_December 2020_)
 
 ## Industry
 **Consulting Analyst @ Accenture ~ Applied Intelligence  (_Sept. 2021 - June 2022_)**
