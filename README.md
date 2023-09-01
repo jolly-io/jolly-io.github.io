@@ -26,6 +26,14 @@ In NLP, LDA is employed to understand the main topics in large volumes of text, 
 Learn more about this implementation on my [_Github_](https://github.com/jolly-io/Azure_Reviews_A_Latent_Dirichlet_Allocation_Approach)
 
 
+![](assets/airline1_377x133.jpeg)
+### Exploratory Data Analysis on United States Domestic Flights
+
+In this project, I undertook Exploratory Data Analysis (EDA). Given the dataset, I formulated and posed specific insight eliciting questions and endeavored to answer these questions from the dataset leveraging the Pandas and Numpy libraries and relevant Visualization toolkits.
+
+View the implementation on my [_Github_](https://github.com/jolly-io/EDA_On_US_Domestic_Flights) and read the written [_Report_](https://github.com/jolly-io/EDA_On_US_Domestic_Flights/blob/06bc7e60ff93ddf16af1961862acdf00c17b55a0/Report_%20Understanding_Airlines_Delays_Jolly_Ogbole.pdf)
+ 
+
 **Python Projects**                                                                                                                                  
 - Developed a logistic regression-based model that predicted customer churn for a telecommunications client, resulting in a 30% reduction in churn, synthesizing technical and managerial insights for decision makers.
 - Implemented a regression discontinuity design to estimate the causal effect of positive Yelp.com ratings on restaurant reservation availability in San Francisco.
