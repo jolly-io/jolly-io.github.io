@@ -20,8 +20,8 @@
 ### Natural Language Processing (NLP) on Microsoft Azure Reviews
 
 In this project I leveraged the Latent Dirichlet Allocation (LDA) Topic Modeling technique to analyze the textual data aggregated from a particualr high impact reviews platform, capterra.com to uncover key trends that matter to users of the product.
-In NLP, LDA is employed to understand the main topics in large volumes of text, making it easier to summarize or categorize documents based on their content. Given a set of documents, LDA tries to determine the mix of topics that each document represents and the mix of words that define each topic. LDA is a powerful tool in the NLP toolkit for uncovering the hidden thematic structure in a large collection of textual data, which can be impractical to manually analyze for many organizations.
 
+In NLP, LDA is employed to understand the main topics in large volumes of text, making it easier to summarize or categorize documents based on their content. Given a set of documents, LDA tries to determine the mix of topics that each document represents and the mix of words that define each topic. LDA is a powerful tool in the NLP toolkit for uncovering the hidden thematic structure in a large collection of textual data, which can be impractical to manually analyze for many organizations.
 Learn more about this implementation on my [_Github_](https://github.com/jolly-io/Azure_Reviews_A_Latent_Dirichlet_Allocation_Approach)
 
 
