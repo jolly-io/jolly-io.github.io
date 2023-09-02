@@ -25,7 +25,7 @@ In this project I leveraged the Latent Dirichlet Allocation (LDA) Topic Modeling
 
 In NLP, LDA is employed to understand the main topics in large volumes of text, making it easier to summarize or categorize documents based on their content. Given a set of documents, LDA tries to determine the mix of topics that each document represents and the mix of words that define each topic. LDA is a powerful tool in the NLP toolkit for uncovering the hidden thematic structure in a large collection of textual data, which can be impractical to manually analyze for many organizations but bears invaluable insights that inform products innovations, revenue and business growth.
 
-Learn more about this implementation on my [_Github_](https://github.com/jolly-io/Azure_Reviews_A_Latent_Dirichlet_Allocation_Approach)
+Learn more about this implementation on my [_Github_](https://github.com/jolly-io/Azure_Reviews_A_Latent_Dirichlet_Allocation_Approach) and the [_Report_](https://github.com/jolly-io/Azure_Reviews_A_Latent_Dirichlet_Allocation_Approach/blob/9086d65c5c98d94e53d5084a78bb940963559a14/Trends_Analysis_Azure_Cloud_Reviews.pdf)
 
 
 ![](assets/airline1_377x133.jpeg)
