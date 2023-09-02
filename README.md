@@ -44,8 +44,8 @@ More details on source code implementation [_here_](https://github.com/jolly-io/
 ![](assets/stock-mkt_.jpeg)
 ### Bull and Bear Markets:Asymmetric Volatility Spillover Effects.
 
-In this research, I investigated the Asymmetric Volatility Spillover Effects within and across six major International stock markets namely United States, Canada, France, Germany, Italy & Japan. Findings reveal that Volatility spillovers are asymmetric, with the largest impact within each market. Canada has the least
-impact on other countries, while Japan and the US experience the least volatility from abroad. Italy is most impacted by external volatility changes. In order to predict volatility, investors' expectations play a significant role. In contrast to Bensaida (2019), the United State retains a dominant role as regards to global market
+In this research, I investigated the Asymmetric Volatility Spillover Effects within and across six major International stock markets namely United States, Canada, France, Germany, Italy & Japan. Findings reveal that Volatility spillovers are asymmetric, with the largest impact being auto-influence effects. Canada has the least
+impact on other countries, while Japan and the US experience the least volatility cross-influence from abroad. Italy is most impacted by external volatility changes. In order to predict volatility, investors' expectations play a significant role. In contrast to Bensaida (2019), the United State retains a dominant role as regards to global market
 influence.
 
 Research is detailed on my github here.
