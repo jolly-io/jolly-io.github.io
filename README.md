@@ -10,7 +10,8 @@
 
 ## Industry
 ![](assets/accent_.jpeg)
-**Consulting Analyst @ Accenture ~ Applied Intelligence  (_Sept. 2021 - June 2022_)**
+
+**Consulting Analyst @ Accenture Applied Intelligence  (_Sept. 2021 - June 2022_)**
                                                                          
 - Accelerated a $15 million cloud supply chain transformation project for a global top 2 cloud provider by 15% through implementation of effective metrics and KPIs benchmarking.
 - Enhanced accuracy and completion rates by 25% for a global e-commerce client's urgent data migration to a cloud-based infrastructure through quality control measures, earning managerial recognition.
@@ -49,21 +50,7 @@ In this research, I investigated the Asymmetric Volatility Spillover Effects wit
 impact on other countries, while Japan and the US experience the least volatility cross-influence from abroad. Italy is most impacted by external volatility changes. In order to predict volatility, investors' expectations play a significant role. In contrast to Bensaida (2019), the United State retains a dominant role as regards to global market
 influence.
 
-Research is detailed on my github here.
-
-
-**Python Projects**                                                                                                                                  
-- Developed a logistic regression-based model that predicted customer churn for a telecommunications client, resulting in a 30% reduction in churn, synthesizing technical and managerial insights for decision makers.
-- Implemented a regression discontinuity design to estimate the causal effect of positive Yelp.com ratings on restaurant reservation availability in San Francisco.
-- Implemented EDA on 200K+ US domestic airline records to determine and isolate variables causing flight delays and predict airports reliability. 
-
-
-![](assets/R_logo.png)
-
-**R Projects**	     
-- Implemented a linear regression model design to estimate the causal effect of term limits (elimination of re-election incentives) on a development outcome (corruption) on data from Brazil.  
-- Implemented a differences-in-differences impact evaluation of a government road intervention program on total population growth on panel data from rural India.
- -Built a multiple linear regression model to predict price and price variation on car sharing platform, Turo, leveraging feature engineering to enhance the model’s predictive power and improve pricing strategy.
+Research is detailed on my github here.                                                                                                                            
 
 ## Leadership 
 **Strategy Lead @ Mastercard Foundation Scholars Program Initiative, UC Berkeley (_May 2019 - Sept. 2021_)**
