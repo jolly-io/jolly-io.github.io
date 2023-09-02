@@ -34,10 +34,19 @@ In this project, I undertook Exploratory Data Analysis (EDA). Given the dataset,
 View the implementation on my [_Github_](https://github.com/jolly-io/EDA_On_US_Domestic_Flights) and read the written [_Report_](https://github.com/jolly-io/EDA_On_US_Domestic_Flights/blob/06bc7e60ff93ddf16af1961862acdf00c17b55a0/Report_%20Understanding_Airlines_Delays_Jolly_Ogbole.pdf)
  
 
+![](assets/telecom.jpeg)
+### Telecommunications: Customer Retention and Churn Prediction
+
+In this project, I built a classification model to predict a customer’s likelihood to churn for ZQ, a telecommunications company. Applying the data mining processes to the dataset that was provided, I implemented data exploration, preprocessing and dimension reduction. I used a 10-fold cross-validation technique to assess model performance, calculate performance metrics and determine among two models (Logistic Regression and Classification and Regression Trees (CART) which was the most effective model to deploy. On the basis of model performance, I proceed to deploy the Logistic Regression model for the churn classification problem. And conclude with technical and managerial insights for decision makers.
+
+More details on source code implementation [_here_](https://github.com/jolly-io/Modeling_Customer_Churn_Prediction)  and the formal [_Report_](https://github.com/jolly-io/Modeling_Customer_Churn_Prediction/blob/46c503712c7e01e8757974bf113566e81898bc3e/Report_Churn_Prediction_Model.pdf)
+
+
 **Python Projects**                                                                                                                                  
 - Developed a logistic regression-based model that predicted customer churn for a telecommunications client, resulting in a 30% reduction in churn, synthesizing technical and managerial insights for decision makers.
 - Implemented a regression discontinuity design to estimate the causal effect of positive Yelp.com ratings on restaurant reservation availability in San Francisco.
 - Implemented EDA on 200K+ US domestic airline records to determine and isolate variables causing flight delays and predict airports reliability. 
+
 
 ![](assets/R_logo.png)
 
