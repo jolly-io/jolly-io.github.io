@@ -46,12 +46,9 @@ More details on source code implementation [_here_](https://github.com/jolly-io/
 ![](assets/stock-mkt_.jpeg)
 ### Bull and Bear Markets:Asymmetric Volatility Spillover Effects.
 
-In this research, I investigated the Asymmetric Volatility Spillover Effects within and across six major International stock markets namely United States, Canada, France, Germany, Italy & Japan. Findings reveal that Volatility spillovers are asymmetric, with the largest impact being auto-influence effects. Canada has the least
-impact on other countries, while Japan and the US experience the least volatility cross-influence from abroad. Italy is most impacted by external volatility changes. In order to predict volatility, investors' expectations play a significant role. In contrast to Bensaida (2019), the United State retains a dominant role as regards to global market
-influence.
+In this research, I investigated the Asymmetric Volatility Spillover Effects within and across six major International stock markets Indexes namely United States (S&P 500), Canada (TSX 60), France (CAC 40), Germany (DAX 40), Italy (MIB 30) & Japan (NIKKEI 225). Finding reveal that volatility spillovers are asymmetric, with the largest impact being auto-influence. Canada has the least impact on other countries, while Japan and the US experience the least cross-influence volatility from abroad. Italy is most impacted by external volatility changes. In order to realistically and accurately predict volatility, investors' expectations are a significant factor. In contrast to Bensaida (2019), the United States maintains dominance with respect to global market influence.
 
-Research is detailed on my github here.                                                                                                                            
-
+Find the implementation on my [_github_](https://github.com/jolly-io/Stock_Markets_Assymetric_Volatility_Spillover_Effects) and Report [_here_](https://github.com/jolly-io/Stock_Markets_Assymetric_Volatility_Spillover_Effects/blob/9692754dd6e52f3ec4e6d06a365f3adce7a08b25/Report_Bull_and_Bear_Market.pdf)                                                                                                                            
 ## Leadership 
 **Strategy Lead @ Mastercard Foundation Scholars Program Initiative, UC Berkeley (_May 2019 - Sept. 2021_)**
 
@@ -61,8 +58,6 @@ Research is detailed on my github here.
 
 ## Awards
 - The Prestigious Mastercard Foundation Scholarship to UC Berkeley
-
-
 
 
 
