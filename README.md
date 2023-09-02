@@ -9,6 +9,7 @@
 -   [_Latest Unofficial Transcript_](https://github.com/jolly-io/jolly-io.github.io/blob/7d4c8885e329f363e4739a9c25e960e7910a62b5/Records/Transcript_MastersV1.pdf)
 
 ## Industry
+![](assets/accent_.jpeg)
 **Consulting Analyst @ Accenture ~ Applied Intelligence  (_Sept. 2021 - June 2022_)**
                                                                          
 - Accelerated a $15 million cloud supply chain transformation project for a global top 2 cloud provider by 15% through implementation of effective metrics and KPIs benchmarking.
