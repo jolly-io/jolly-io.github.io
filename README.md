@@ -41,6 +41,15 @@ In this project, I built a classification model to predict a customer’s likeli
 
 More details on source code implementation [_here_](https://github.com/jolly-io/Modeling_Customer_Churn_Prediction)  and the formal [_Report_](https://github.com/jolly-io/Modeling_Customer_Churn_Prediction/blob/46c503712c7e01e8757974bf113566e81898bc3e/Report_Churn_Prediction_Model.pdf)
 
+![](assets/stock-mkt_.jpeg)
+### Bull and Bear Markets:Asymmetric Volatility Spillover Effects.
+
+In this research, I investigated the Asymmetric Volatility Spillover Effects within and across six major International stock markets namely United States, Canada, France, Germany, Italy & Japan. Findings reveal that Volatility spillovers are asymmetric, with the largest impact within each market. Canada has the least
+impact on other countries, while Japan and the US experience the least volatility from abroad. Italy is most impacted by external volatility changes. In order to predict volatility, investors' expectations play a significant role. In contrast to Bensaida (2019), the United State retains a dominant role as regards to global market
+influence.
+
+Research is detailed on my github here.
+
 
 **Python Projects**                                                                                                                                  
 - Developed a logistic regression-based model that predicted customer churn for a telecommunications client, resulting in a 30% reduction in churn, synthesizing technical and managerial insights for decision makers.
