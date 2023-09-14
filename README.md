@@ -50,15 +50,17 @@ In this research, I investigated the Asymmetric Volatility Spillover Effects wit
 
 My findings reveal that volatility spillovers are asymmetric, with the largest impact being auto-influence. Canada has the least impact on the other five countries, while Japan and the United States experience the least cross-influence volatility from abroad (most resilient). Italy is most impacted by external volatility changes. In order to realistically and accurately predict volatility, investors' expectations are a significant factor. And contrary to Bensaida (2019), the United States maintains dominance with respect to global market influence.
 
-Find the implementation on my [_Github_](https://github.com/jolly-io/Stock_Markets_Assymetric_Volatility_Spillover_Effects) and Report [_here_](https://github.com/jolly-io/Stock_Markets_Assymetric_Volatility_Spillover_Effects/blob/9692754dd6e52f3ec4e6d06a365f3adce7a08b25/Report_Bull_and_Bear_Market.pdf)                                                                                                                            
+Find the implementation on my [_Github_](https://github.com/jolly-io/Stock_Markets_Assymetric_Volatility_Spillover_Effects) and Report [_here_](https://github.com/jolly-io/Stock_Markets_Assymetric_Volatility_Spillover_Effects/blob/9692754dd6e52f3ec4e6d06a365f3adce7a08b25/Report_Bull_and_Bear_Market.pdf)                                
+
+![](assets/logomcf.png)
 ## Leadership 
 **Strategy Lead @ Mastercard Foundation Scholars Program Initiative, UC Berkeley (_May 2019 - Sept. 2021_)**
 
-- Raised  $2,500 in opportunity funds to sponsor college prep and application costs for over a dozen High School graduates; enabling successful participation in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2019, resulting in eventual acquisition of full tuition, room and board scholarships to Colleges in the United States and Africa in excess of $1 million in awards in 2020. 
+- [Raised](https://github.com/jolly-io/jolly-io.github.io/blob/101d02519cf2a442eb03b8377e8ca7711b83b6b2/Records/2021%20EDUSA%20NEWSLETTER.pdf) $2,500 in opportunity funds to sponsor college prep and application costs for over a dozen High School graduates; enabling successful participation in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2019, resulting in eventual acquisition of full tuition, room and board scholarships to Colleges in the United States and Africa in excess of $1 million in awards in 2020. 
 - Raised $3,000 in opportunity funds to sponsor college prep and application costs for about 2 dozen undergraduate and graduate candidates in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2021, culminating in holistic college scholarships awards in excess of $1 million in total awards money in 2022.
 
 ## Awards
-- Recipient of the prestigious Mastercard Foundation Scholarship at the University of California, Berkeley
+- Recipient of the prestigious Mastercard Foundation Scholarship at the University of California, Berkeley in 2016.
 
 
 
