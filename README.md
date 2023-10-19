@@ -59,8 +59,6 @@ More details on source code implementation [_here_](https://github.com/jolly-io/
 - [Raised](https://github.com/jolly-io/jolly-io.github.io/blob/101d02519cf2a442eb03b8377e8ca7711b83b6b2/Records/2021%20EDUSA%20NEWSLETTER.pdf) $2,500 in opportunity funds to sponsor college prep and application costs for over a dozen High School graduates; enabling successful participation in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2019, resulting in eventual acquisition of full tuition, room and board scholarships to Colleges in the United States and Africa in excess of $1 million in awards in 2020. 
 - Raised $3,000 in opportunity funds to sponsor college prep and application costs for about 2 dozen undergraduate and graduate candidates in the U.S State Department’s EducationUSA program in Abuja, Nigeria in Summer 2021, culminating in holistic college scholarships awards in excess of $1 million in total awards money in 2022.
 
-## Awards
-- Recipient of the prestigious Mastercard Foundation Scholarship at the University of California, Berkeley in 2016.
 
 
 
