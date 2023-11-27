@@ -6,7 +6,7 @@
 - M.S., Business Analytics | California State Polytechnic University, Pomona, CA (_2023_)
 - B.A., Political Economics|University of California, Berkeley, CA (_2020_)
 
--   [_Latest Unofficial Transcript_](https://github.com/jolly-io/jolly-io.github.io/blob/7d4c8885e329f363e4739a9c25e960e7910a62b5/Records/Transcript_MastersV1.pdf)
+-   [_Unofficial Transcript_](https://github.com/jolly-io/jolly-io.github.io/blob/f94ac73e2546aaf3f1bef8f1a49142cf0a5027ab/Records/Redacted_MS_Transcripts_.pdf)
 
 ## Industry
 ![](assets/accent_.jpeg)
