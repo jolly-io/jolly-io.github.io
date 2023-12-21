@@ -8,15 +8,6 @@
 
 -   [_Unofficial Transcript_](https://github.com/jolly-io/jolly-io.github.io/blob/f94ac73e2546aaf3f1bef8f1a49142cf0a5027ab/Records/Redacted_MS_Transcripts_.pdf)
 
-## Industry
-![](assets/accent_.jpeg)
-
-**Consulting Analyst @ Accenture Applied Intelligence  (_Sept. 2021 - June 2022_)**
-                                                                         
-- Accelerated a $15 million cloud supply chain transformation project for a global top 2 cloud provider by 15% through implementation of effective metrics and KPIs benchmarking.
-- Enhanced accuracy and completion rates by 25% for a global e-commerce client's urgent data migration to a cloud-based infrastructure through quality control measures, earning managerial recognition.
-- Secured a $5 million contract by crafting a customized proposal for an Electric Vehicle manufacturer client's charging location optimization project, resulting in both client and managerial recognition.
-
 ##  Research Projects
 ![](assets/stock-mkt_.jpeg)
 ### Bull and Bear Markets:Asymmetric Volatility Spillover Effects.
