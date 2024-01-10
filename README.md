@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, R, SQL, AWS, Google Cloud, Econometrics, Tableau and Excel Optimization
+#### Technical Skills: Python, R, SQL, AWS, Econometrics, Tableau and Excel Optimization
 
 ## Education
 - M.S., Business Analytics | California State Polytechnic University, Pomona, CA (_2023_)
